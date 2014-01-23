@@ -1,5 +1,7 @@
 # convoke
 
+[![Build Status](https://travis-ci.org/ahelmberger/convoke.png?branch=master)](https://travis-ci.org/ahelmberger/convoke)
+
 A command line tool to move all files matching a GLOB pattern into a single folder.
 
 ## Getting Started
