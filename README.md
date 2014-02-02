@@ -2,6 +2,7 @@
 
 [![Build Status](https://travis-ci.org/ahelmberger/convoke.png?branch=master)](https://travis-ci.org/ahelmberger/convoke)
 [![Dependency Status](https://david-dm.org/ahelmberger/convoke.png)](https://david-dm.org/ahelmberger/convoke)
+[![DevDependency Status](https://david-dm.org/ahelmberger/convoke/dev-status.png)](https://david-dm.org/ahelmberger/convoke#info=devDependencies)
 
 A command line tool to move all files matching a GLOB pattern into a single folder.
 
@@ -25,9 +26,14 @@ In lieu of a formal styleguide, take care to maintain the existing coding style.
 
 ## Release History
 
-0.9.1 Bugfix: The destination folder is now created recursively.
+### 0.9.1
 
-0.9.0 Initial release.
+Bugfix: The destination folder is now created recursively.
+Update of development relevant node packages (including badge in README).
+
+### 0.9.0
+
+Initial release.
 
 ## License
 
