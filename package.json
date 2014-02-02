@@ -1,7 +1,7 @@
 {
   "name": "convoke",
   "description": "A command line tool to move all files matching a GLOB pattern into a single folder.",
-  "version": "0.9.0",
+  "version": "0.9.1",
   "homepage": "https://github.com/ahelmberger/convoke",
   "author": {
     "name": "Andreas Helmberger",
@@ -38,6 +38,7 @@
   "keywords": [],
   "dependencies": {
     "cli": "~0.4.5",
-    "glob": "~3.2.8"
+    "glob": "~3.2.8",
+    "fs-tools": "~0.2.11"
   }
 }

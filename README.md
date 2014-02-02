@@ -25,6 +25,8 @@ In lieu of a formal styleguide, take care to maintain the existing coding style.
 
 ## Release History
 
+0.9.1 Bugfix: The destination folder is now created recursively.
+
 0.9.0 Initial release.
 
 ## License
